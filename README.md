@@ -4,7 +4,7 @@ This repository contains a complete, from-scratch implementation of the **ResNet
 
 ---
 
-## 🏗️ Project Architecture & Components
+##  Project Architecture & Components
 
 The implementation is broken down into modular components as defined in the original ResNet paper:
 
@@ -23,7 +23,7 @@ The implementation is broken down into modular components as defined in the orig
 
 ---
 
-## 💻 Code Snippet (ResNet50 Core)
+##  Code Snippet (ResNet50 Core)
 
 Here is a quick look at how the main `ResNet50` architecture is structured using the functional API:
 
